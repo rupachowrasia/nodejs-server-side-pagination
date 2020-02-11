@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-server-side-pagination",
+  "version": "1.0.0",
+  "description": "Node.js server side pagination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "pagination",
+    "server-side-pagination",
+    "mongodb-pagination",
+    "express-pagination"
+  ],
+  "author": "Rupa Chowrasia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
